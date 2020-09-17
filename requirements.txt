@@ -1,0 +1,6 @@
+camelot-py
+numpy
+pandas
+coloredlogs
+dateutil
+click
